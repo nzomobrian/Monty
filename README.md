@@ -12,7 +12,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language. There is not more than one instruction per line. There can be any number of spaces before or after the opcode and its argument: [examples](https://github.com/Dikachis/monty#Examples)
 
 [](https://github.com/Dikachis/monty#objectives)Objectives:
------------------------------------------------------------
+----------------------------------------------------------
 
 -   To know what LIFO and FIFO mean
 -   To know what a stack is, and when to use it
